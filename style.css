@@ -45,3 +45,12 @@ a {
     margin-bottom: 15px;
     text-transform: capitalize;
 }
+
+.contacts_list {
+    padding-left: 15px;
+    list-style-type: none;
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}

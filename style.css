@@ -1,6 +1,8 @@
 body {
     background: #a7a7a7;
     font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 .photo {
@@ -38,12 +40,14 @@ a {
 
 .post_image {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .post_content {
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .contacts_list {

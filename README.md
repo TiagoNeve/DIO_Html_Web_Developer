@@ -2,5 +2,5 @@
 Códigos do Bootcamp do DIO
 
 ## Sessões
-[x] Introdução a criação de websites
-[] Recriando a página inicial do instagram
+- [x] Introdução a criação de websites
+- [] Recriando a página inicial do instagram

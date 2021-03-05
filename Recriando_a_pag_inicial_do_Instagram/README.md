@@ -2,7 +2,7 @@
 
 ## Descrição
 <p>
-    Página utilizando Html e CSS visando similar a página de login do site [Instagram](https://instagram.com).
+    Página utilizando Html e CSS visando similar a página de login do site ![Instagram](https://instagram.com).
 </p>
 
 ## Como executar

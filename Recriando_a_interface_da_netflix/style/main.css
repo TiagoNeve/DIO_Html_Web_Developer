@@ -104,6 +104,10 @@ header nav a:hover {
     display: block;
 }
 
+.carrosel-filmes .item:hover {
+    border: 2px solid rgba(0, 0, 0, .50);
+}
+
 .carrosel-filmes {
     margin-top: 5px;
 }

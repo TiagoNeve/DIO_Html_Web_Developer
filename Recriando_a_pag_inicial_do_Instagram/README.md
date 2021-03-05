@@ -1,9 +1,8 @@
 # Recriando a página inicial do Instagram
 
 ## Descrição
-<p>
-    Página utilizando Html e CSS visando similar a página de login do site ![Instagram](https://instagram.com).
-</p>
+Página utilizando Html e CSS visando similar a página de login do site [Instagram](https://instagram.com).
+
 
 ## Como executar
 1. Clone o repositório

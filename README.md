@@ -10,3 +10,4 @@ Códigos do Bootcamp do DIO
 - [X] [Recriando a página inicial do instagram](https://tiagoneve.github.io/DIO_Html_Web_Developer/Recriando_a_pag_inicial_do_Instagram/)
 - [X] [Recriando a interface da Netflix](https://tiagoneve.github.io/DIO_Html_Web_Developer/Recriando_a_interface_da_netflix/)
 - [X] [Construindo páginas para internet com Bootstrap](https://tiagoneve.github.io/DIO_Html_Web_Developer/Construindo_pag_para_internet_com_Bootstrap/)
+- [ ] [Recriando o jogo da cobrinha](https://tiagoneve.github.io/DIO_Html_Web_Developer/Recriando_o_jogo_da_cobrinha_com_JS/)
